@@ -1,6 +1,13 @@
-# hello_world
+# Historian App
 
-A new Flutter project created with https://flutlab.io
+This app is made using Flutter, a cross-platform framework for mobile app development.
+
+## Description
+
+Flutter is a modern, open-source framework for building high-performance, high-fidelity, app experiences for iOS and Android from a single codebase. It was developed by Google and uses the Dart programming language. Flutter is known for its fast development cycle, expressive and flexible UI, and native performance. The framework includes a rich set of customizable widgets, tools, and libraries that make it easy to build beautiful and functional apps. It also has a growing community of developers and designers who are constantly contributing to the ecosystem. Whether you're building a simple MVP or a complex, data-driven app, Flutter has everything you need to create an outstanding user experience.
+
+## Screenshot
+![Alt Text](assets/img/screenshot.jpg)
 
 ## Getting Started
 
@@ -14,11 +21,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
